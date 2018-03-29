@@ -1,0 +1,23 @@
+ &inp
+  inucz = 6
+  zte = 2.0
+  zne = 2.0e14
+  laden = 1
+  ladtip = 1
+  leci = 1
+  ldrmlt = 2
+  ncxb = 0
+  ncxopt = 1
+  ivunit = 2
+  anneut = 1.0e11
+  vneut = 0.001
+  imode = 1
+  nte = 21
+  nne = 2
+  tei = 0.001 0.0015 0.003 0.005 0.01 0.02 0.03 0.05 0.07
+        0.1 0.2 0.3 0.4 0.5 0.7 1.0 2.0 3.0 5.0 10.0 50.0 100.0, 1000.0
+  anei = 1.0e+13 1.e+15
+  nmin = -3
+  nmax = 2
+ $end
+
